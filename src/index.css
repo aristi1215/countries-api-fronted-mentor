@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.light{
+  --text: 200, 15%, 8%;
+  --bg-color: 0, 0%, 98%;
+  --bg-elements: 0, 0%, 100%
+}
+
+.dark{
+  --text: 0, 0%, 100%;
+  --bg-color: 207, 26%, 17%;
+  --bg-elements: 209, 23%, 22%
+}
